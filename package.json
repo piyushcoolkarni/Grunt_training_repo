@@ -9,7 +9,7 @@
     "express": "~4.12.2"
   },
   "devDependencies": {
-    
+    "express": "~4.12.2",
     "grunt": "^1.0.1"
   }
 }
